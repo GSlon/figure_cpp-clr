@@ -1,0 +1,27 @@
+﻿  EqTriangle.cpp
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\eqtriangle.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\eqtriangle.cpp(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\eqtriangle.cpp(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\eqtriangle.cpp(111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\eqtriangle.cpp(110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\eqtriangle.cpp(113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\eqtriangle.cpp(112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\eqtriangle.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MyForm.cpp
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\myturnform.h(130): warning C4101: 'ex': unreferenced local variable
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\mymoveform1.h(142): warning C4677: 'EditDialog': signature of non-private member contains assembly private type 'cliext::pair<float,float>'
+  f:\проекты_visual_studio\ppo_laba1\ppo_laba1\mymoveform1.h(138): note: see declaration of 'cliext::pair<float,float>'
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\mymoveform1.h(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\mymoveform1.h(156): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\mymoveform1.h(158): warning C4101: 'ex': unreferenced local variable
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\myform.h(297): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Section.cpp
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\section.cpp(91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\section.cpp(90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Triangle.cpp
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\triangle.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\triangle.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\проекты_visual_studio\ppo_laba1\ppo_laba1\triangle.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Dot.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PPO_laba1.vcxproj -> F:\проекты_visual_studio\PPO_laba1\Debug\PPO_laba1.exe
